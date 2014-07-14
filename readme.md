@@ -18,17 +18,11 @@ project.
 # Draft Project Outline:
 (These are not yet ordered or linked together according to the above
 standards. )
-- HTML5 Form that saves progress to locaal storage as the user fills it
-  out. Bonus: Post data to NoSQL database when the user submits the
-form.
+
+## JavaScript
 - Find a javascript (or jQuery) pluggin that doesn't have tests. Fork
   the repo and write tests with Jasmine. Bonus: Send a pull request to
 the source repo once a few tests are complete.
-- Style a custom Google Map with Google Maps API. Examples at
-  snazzymaps.com
-- Build a readable, responsive blog post. Focus on redability and
-  responsive content. Bonus: Determine best practice for responsive
-images and include a featured image.
 - Find an API at http://www.programmableweb.com/ and use AJAX to display
   content in your own archive. Bonus: Use a templating language like
 handle bars to display data
@@ -36,9 +30,23 @@ handle bars to display data
 - Use Google Maps API and HTML5 Geo Location to show a client's current
   location. Bonus: Use web sockets to track and update the map in real
 time.
-- Build a simple, responsive dropdown-menu.
 - Write a utility that generates a randomized, decorative background for
   any block level element.
+- HTML5 Form that saves progress to locaal storage as the user fills it
+  out. Bonus: Post data to NoSQL database when the user submits the
+form.
+
+## CSS & Design
+- Given two divs, write CSS to arrange as columns in as many ways as you
+  can think of. Bonus: Descibe pros and cons of each method in
+paragraphs within each implimentation.
+- Build a simple, responsive dropdown-menu.
+- Build a readable, responsive blog post. Focus on redability and
+  responsive content. Bonus: Determine best practice for responsive
+images and include a featured image.
+- Style a custom Google Map with Google Maps API. Examples at
+  snazzymaps.com
 
 # Todo:
 - Create project templates according to archive values.
+- Add dificulty tags to each project.
