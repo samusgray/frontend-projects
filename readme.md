@@ -6,7 +6,7 @@ Frontend & Node.js micro-project ideas that challenge specific skills.
 Each project should meet the following criteria:
 
 1) Focus on a small collection of features that will almost certainly be
-found on a quality, production web application.
+required in a quality, production web application.
 2) Identify two or three skills targeted in the challenge
 3) Refrence any prerequisites or skills needed to complete the challenge
 and learn the targeted skills
@@ -32,7 +32,7 @@ images and include a featured image.
 - Find an API at http://www.programmableweb.com/ and use AJAX to display
   content in your own archive. Bonus: Use a templating language like
 handle bars to display data
-
+- Refactor a jQuey plugin to eliminate the jQuery depenency.
 
 # Todo:
 - Create project templates according to archive values.
