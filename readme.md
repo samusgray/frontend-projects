@@ -35,6 +35,7 @@ time.
 - HTML5 Form that saves progress to locaal storage as the user fills it
   out. Bonus: Post data to NoSQL database when the user submits the
 form.
+- Refactor a terrible script. Bonus: Use coffeescript.
 
 ## CSS & Design
 - Given two divs, write CSS to arrange as columns in as many ways as you
@@ -46,6 +47,8 @@ paragraphs within each implimentation.
 images and include a featured image.
 - Style a custom Google Map with Google Maps API. Examples at
   snazzymaps.com
+- Refactor a terrible stylesheet. Bonus: Use Sass and write a mixin to
+  reduce repetition.
 
 # Todo:
 - Create project templates according to archive values.
