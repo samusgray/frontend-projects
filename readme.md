@@ -21,6 +21,9 @@ standards. )
 - HTML5 Form that saves progress to locaal storage as the user fills it
   out. Bonus: Post data to NoSQL database when the user submits the
 form.
+- Find a javascript (or jQuery) pluggin that doesn't have tests. Fork
+  the repo and write tests with Jasmine. Bonus: Send a pull request to
+the source repo once a few tests are complete.
 - Style a custom Google Map with Google Maps API. Examples at
   snazzymaps.com
 - Build a readable, responsive blog post. Focus on redability and
@@ -28,4 +31,8 @@ form.
 images and include a featured image.
 - Find an API at http://www.programmableweb.com/ and use AJAX to display
   content in your own archive. Bonus: Use a templating language like
-handle bars to display data.
+handle bars to display data
+
+
+# Todo:
+- Create project templates according to archive values.
