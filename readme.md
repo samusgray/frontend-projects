@@ -33,8 +33,8 @@ images and include a featured image.
   content in your own archive. Bonus: Use a templating language like
 handle bars to display data
 - Refactor a jQuey plugin to eliminate the jQuery depenency.
-- Use Google Maps API and HTML5 Geo Location to show a users current
-  location. Bonus: Use websickets to track and update the map in real
+- Use Google Maps API and HTML5 Geo Location to show a client's current
+  location. Bonus: Use web sockets to track and update the map in real
 time.
 
 # Todo:
