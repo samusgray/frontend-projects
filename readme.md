@@ -5,14 +5,14 @@ Frontend & Node.js micro-project ideas that challenge specific skills.
 
 Each project should meet the following criteria:
 
-1) Focus on a small collection of features that will almost certainly be
+1. Focus on a small collection of features that will almost certainly be
 required in a quality, production web application.
-2) Identify two or three skills targeted in the challenge
-3) Refrence any prerequisites or skills needed to complete the challenge
+2. Identify two or three skills targeted in the challenge
+3. Refrence any prerequisites or skills needed to complete the challenge
 and learn the targeted skills
-4) All prerequisites must be attainable through projects listed as a
+4. All prerequisites must be attainable through projects listed as a
 project in this repo. If it doesn't exist, then make it. 
-5) Relevant, free materials & resources should be listed with each
+5. Relevant, free materials & resources should be listed with each
 project.
 
 # Draft Project Outline:
