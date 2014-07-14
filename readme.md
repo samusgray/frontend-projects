@@ -36,6 +36,9 @@ handle bars to display data
 - Use Google Maps API and HTML5 Geo Location to show a client's current
   location. Bonus: Use web sockets to track and update the map in real
 time.
+- Build a simple, responsive dropdown-menu.
+- Write a utility that generates a randomized, decorative background for
+  any block level element.
 
 # Todo:
 - Create project templates according to archive values.
